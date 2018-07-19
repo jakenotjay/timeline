@@ -1,16 +1,15 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-class Timeline extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {events: props.timeline.events}
-  }
-
-  render() {
-    return(
-      <p>{this.state.events}</p>
-    )
-  }
+const Timeline = (props) => {
+  return(
+    <div>
+      { 
+        props.timeline.events.map((event) => {
+        return ( <p key={ event.name.toString() }>{event.name}</p> );
+        })
+      }
+    </div>
+   );
 }
 
 export default Timeline;

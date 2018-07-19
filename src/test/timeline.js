@@ -1,7 +1,7 @@
 
-var timelineObject = {
+const timelineObject = {
     name: 'timeline1',
-    events: [{name: 'event1'},{name: 'event2'}]
+    events: [{name: 'daklfaa'},{name: 'dakmf'}]
   };
 
 export default timelineObject;
