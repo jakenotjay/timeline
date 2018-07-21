@@ -26,3 +26,24 @@ I'd recommend the documents folders, you don't need to create a folder for the s
     * Copy the url into your git bash, making sure you're in your projects folder
 4. After cloning now cd into the directory and write the command git status to make sure you're code has downloaded
 5. Now open VSCode and add a project folder of timeline
+
+## Setting up VSCode
+Go to the extensions tab and download the following
+* Debugger for Chrome
+* ESLint
+* GitLens - Git Supercharged
+* vscode-icons
+
+## Standing up project folder
+1. Open NodeJs command line
+2. CD into your timeline directory
+3. Enter the following commands
+    * ``` npm install ``` This installs all the third-party packages we've used
+    * ``` npm run ``` This starts the build server and you should see the website pop up now
+    * Press ctrl + c to stop the server
+
+## Now learn!
+Now you need to learn HTML, CSS, JavaScript and React!
+1. [HTML](https://codecademy.com/learn/learn-html) - Super simple tagging system that shows you the basics of how all website are made!
+2. [CSS](https://codecademy.com/learn/learn-css) - Cascading Style Sheets, this is how we design the looks of our websites
+3. [JavaScript](https://codecademy.com/catalog/language/javascript) - Start with the introduction, then start dabbling in seeing if you can understand how my code works. Other good courses [EloquentJS](https://eloquentjavascript.net) and [JavaScript30](https://javascript30.com)
