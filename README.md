@@ -38,8 +38,9 @@ Go to the extensions tab and download the following
     * Press ctrl + c to stop the server
 
 ## Now learn!
-Now you need to learn HTML, CSS, JavaScript and React!
+Now you need to learn HTML, CSS, JavaScript and React:
+
 1. First [HTML](https://codecademy.com/learn/learn-html) - Super simple tagging system that shows you the basics of how all website are made!
-2. Second [CSS](https://codecademy.com/learn/learn-css) - Cascading Style Sheets, this is how we design the looks of our websites
-3. Third[JavaScript](https://codecademy.com/catalog/language/javascript) - Start with the introduction, then start dabbling in seeing if you can understand how my code works. Other good courses [EloquentJS](https://eloquentjavascript.net) and [JavaScript30](https://javascript30.com)
+2. Second [CSS](https://codecademy.com/learn/learn-css) - Cascading Style Sheets, this is how we design the looks of our websites.
+3. Third [JavaScript](https://codecademy.com/catalog/language/javascript) - Start with the introduction, then start dabbling in seeing if you can understand how my code works. Other good courses [EloquentJS](https://eloquentjavascript.net) and [JavaScript30](https://javascript30.com)
 4. You also need to learn [GIT!](https://learngitbranching.js.org/)
