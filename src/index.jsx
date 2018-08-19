@@ -1,10 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
-const title ="seb is willi";
+import App from './App.jsx';
 
 ReactDOM.render(
-  <div>{title}</div>,
+  <div>
+    <App />
+  </div>,
   document.getElementById('app')
 );
 
